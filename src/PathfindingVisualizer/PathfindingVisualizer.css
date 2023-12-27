@@ -1,0 +1,12 @@
+.grid-container {
+  margin: 2% auto;
+}
+
+.grid {
+  white-space: pre; 
+  outline: 3px solid rgb(0, 0, 0);
+}
+
+button {
+  margin: 20px 2px;
+}
